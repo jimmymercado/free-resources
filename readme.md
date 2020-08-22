@@ -1,4 +1,5 @@
 # Free Resources 
+List of online resources to aid you in your learning journey! Many of the list was collected from contributions of different individuals, and from my own learning experience through bootcamps and googling!
 
 ## Full-Stack Programs:
 
@@ -7,6 +8,9 @@
 - <a href="https://fullstackopen.com/en" target="_new">Full-Stack Open</a> - MERN, GraphQL, Typescript
 
 - <a href="https://open.appacademy.io/" target="_new">App Academy</a> - Ruby on Rails, MERN, Javascript, Fundamentals
+
+- <a href="https://www.fullstackpython.com/table-of-contents.html" target="_new">Full Stack Python</a> -  Open source book that explains technical concepts
+
 
 
 
@@ -23,10 +27,13 @@
 
 - <a href="https://pythonprogramming.net/" target="_new">Python Programming</a> - Python, Machine learning
 
-- <a href="https://devotedlearner.com/how-to-become-a-machine-learning-engineer/#Introduction" target="_new">Devoted Learner</a> - Python
+- <a href="https://pythonspot.com/" target="_new">Python Spot</a> - For beginner and professional developers
 
-- <a href="https://pythonprinciples.com/"" target="_new">Python Principles</a> - Python
+- <a href="https://devotedlearner.com/how-to-become-a-machine-learning-engineer/#Introduction" target="_new">Devoted Learner</a> - Zero to Hero
 
+- <a href="https://pythonprinciples.com/" target="_new">Python Principles</a> - Python For Beginners
+
+- <a href="https://www.udacity.com/course/introduction-to-python--ud1110" target="_new">Udacity</a> - Introduction to Python Programming
 
 
 ## Front-End Resources:
@@ -47,21 +54,19 @@
 
 ## Algorithms:
 
-- <a href="https://www.codewars.com/" target="_new">Code Wars</a>
+- <a href="https://www.codewars.com/" target="_new">Code Wars</a> - Code challenges
 
-- <a href="https://www.hackerrank.com/" target="_new">Hacker Rank</a>
+- <a href="https://www.hackerrank.com/" target="_new">Hacker Rank</a> Code challenges
 
-- <a href="https://leetcode.com/problemset/algorithms/" target="_new">Leet Code</a>
+- <a href="https://leetcode.com/problemset/algorithms/" target="_new">Leet Code</a> Code challenges
 
-- <a href="https://algorithm.codingdojo.com/lesson" target="_new">Coding Dojo Algos</a>
+- <a href="https://algorithm.codingdojo.com/lesson" target="_new">Coding Dojo Algos</a> - Free collection of online lessons and challenges 
 
-- <a href="https://projecteuler.net/archives" target="_new">ProjectEuler</a>
+- <a href="https://projecteuler.net/archives" target="_new">ProjectEuler</a> - Problem Solving
 
-- <a href="https://edabit.com/" target="_new">Edabit</a>
+- <a href="https://edabit.com/" target="_new">Edabit</a> - Interactive challenges
 
-- <a href="https://codingbat.com/java" target="_new">CodingBat</a>
-
-- <a href="https://www.exercism.io/" target="_new">Exercism</a>
+- <a href="https://www.exercism.io/" target="_new">Exercism</a> - Coding exercises 
 
 - <a href="http://cp-algorithms.com/" target="_new">CP-Algorithms</a> - For Understanding Algorithms
 
@@ -75,7 +80,7 @@
 
 - <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf" target="_new">VS Studio Code Shortcuts (Windows)</a> - Keyboard shortcuts for Windows
 
-- <a href="https://balsamiq.com/" target="_new">Balsamiq</a> - Wire Frame creation
+- <a href="https://balsamiq.com/learn/courses/intro-to-ui-design/" target="_new">Balsamiq</a> - Intro to UI Design  through Wire Frame creation
 
 - <a href="https://dribbble.com/" target="_new">Dribble</a> - Design platform for inspiration
 
@@ -83,7 +88,9 @@
 
 - <a href="https://www.figma.com/" target="_new">Figma</a> - WireFrames
 
-- <a href="https://repl.it/" target="_new">Repl.it</a> - IDE, storage, collab, and more.
+- <a href="https://codepen.io/" target="_new">Codepen.io</a> - Social development environment
+
+- <a href="https://repl.it/" target="_new">Repl.it</a> - Online IDE, storage, collab, and more.
 
 - <a href="https://www.reddit.com/r/learnprogramming/wiki/faq" target="_new"> r/learnprogramming</a> - Reddit resources
 
