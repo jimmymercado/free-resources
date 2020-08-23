@@ -35,6 +35,9 @@ List of online resources to aid you in your learning journey! Many of the list w
 
 - <a href="https://www.udacity.com/course/introduction-to-python--ud1110" target="_new">Udacity</a> - Introduction to Python Programming
 
+- <a href="https://www.youtube.com/watch?v=bY6m6_IIN94&t=4s" target="_new">Socratica</a> - Python Youtube Videos and more!
+
+
 
 ## Front-End Resources:
 
