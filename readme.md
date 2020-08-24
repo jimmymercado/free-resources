@@ -9,9 +9,7 @@ List of online resources to aid you in your learning journey! Many of the list w
 
 - <a href="https://open.appacademy.io/" target="_new">App Academy</a> - Ruby on Rails, MERN, Javascript, Fundamentals
 
-- <a href="https://codelabs.developers.google.com/" target="_new">Codelabs</a> -  Open source book that explains technical concepts
-
-- <a href="https://www.fullstackpython.com/table-of-contents.html" target="_new">Full Stack Python</a> -  a guided, tutorial, hands-on coding experience through the process of building a small application
+- <a href="https://www.fullstackpython.com/table-of-contents.html" target="_new">Full Stack Python</a> -  Open source book that explains technical concepts
 
 
 
@@ -22,6 +20,7 @@ List of online resources to aid you in your learning journey! Many of the list w
 - <a href="https://www.jetbrains.com/" target="_new">Jet Brains</a> - IDE for many Languages
 - <a href="https://www.freecodecamp.org/" target="_new">Free Code Camp</a> - Alot of Languages and resources
 
+- <a href="https://codelabs.developers.google.com/" target="_new">Codelabs</a> -  a guided, tutorial, hands-on coding experience through the process of building a small application
 
 
 ## Python Resources:
