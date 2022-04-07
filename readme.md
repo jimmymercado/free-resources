@@ -98,3 +98,126 @@ List of online resources to aid you in your learning journey! Many of the list w
 - <a href="https://www.reddit.com/r/learnprogramming/wiki/faq" target="_new"> r/learnprogramming</a> - Reddit resources
 
 - <a href="https://play.google.com/store/apps/details?id=com.enki.insights&hl=en_US" target="_new">Enki - Android App</a> - Learn data science, coding, tech skills in Android
+
+# VS Code Extensions: 
+Please make sure you have the VS Code <a href="https://code.visualstudio.com/docs/editor/command-line" target="_new">Command Line Interface (CLI)</a> installed. On terminal, type: ```code --version```
+
+Copy the list and paste it to your terminal  - All extensions will be installed automatically
+
+```
+code --install-extension 2gua.rainbow-brackets
+code --install-extension aaron-bond.better-comments
+code --install-extension aaronthomas.vscode-snazzy-operator
+code --install-extension abusaidm.html-snippets
+code --install-extension alexanderbast.vscode-snazzy
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension christian-kohler.path-intellisense
+code --install-extension chrmarti.regex
+code --install-extension CoenraadS.bracket-pair-colorizer-2
+code --install-extension Dart-Code.dart-code
+code --install-extension DavidAnson.vscode-markdownlint
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension dracula-theme.theme-dracula
+code --install-extension dssiqueira.drupal-8-snippets
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension EQuimper.react-native-react-redux
+code --install-extension esbenp.prettier-vscode
+code --install-extension felixfbecker.php-debug
+code --install-extension felixfbecker.php-intellisense
+code --install-extension felixfbecker.php-pack
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension GabrielNordeborn.vscode-graphiql-explorer
+code --install-extension gerane.Theme-Bittersweet
+code --install-extension GraphQL.vscode-graphql
+code --install-extension humao.rest-client
+code --install-extension jinsihou.diff-tool
+code --install-extension jock.svg
+code --install-extension jpoissonnier.vscode-styled-components
+code --install-extension kaffeine.advanced-drupal-8-snippets
+code --install-extension leizongmin.node-module-intellisense
+code --install-extension Liveecommerce.vscode-remote-workspace
+code --install-extension marcostazi.VS-code-drupal
+code --install-extension MaxfieldWalker.vscode-color-theme-spirited-away
+code --install-extension mgmcdermott.vscode-language-babel
+code --install-extension mikestead.dotenv
+code --install-extension ms-dotnettools.csharp
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension ms-vscode.powershell-preview
+code --install-extension ritwickdey.LiveServer
+code --install-extension shailen.netlify
+code --install-extension Shan.code-settings-sync
+code --install-extension Shelex.vscode-cy-helper
+code --install-extension SimonSiefke.svg-preview
+code --install-extension tamasfe.even-better-toml
+code --install-extension TheNouillet.symfony-vscode
+code --install-extension Tyriar.shell-launcher
+code --install-extension vincaslt.highlight-matching-tag
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension wesbos.theme-cobalt2
+code --install-extension whatwedo.twig
+code --install-extension yzhang.markdown-all-in-one
+code --install-extension zhuangtongfa.material-theme
+
+```
+
+
+## Preferences: Open Settings (JSON):
+settings.json file
+
+Instruction:
+- On VS Code, open Command Palette (or press ctrl + shift + P) 
+- Type settings then choose/click Preferences: Open Settings (JSON)
+- Copy and paste the text below
+
+```
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontFamily": " Dank Mono, Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "editor.detectIndentation": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.showSuggestionsAsSnippets": true,
+  "prettier.jsxSingleQuote": true,
+  "emmet.syntaxProfiles": {
+    "html": {
+      "attr_quotes": "single"
+    },
+    "jsx": {
+        "attr_quotes": "single",
+        "self_closing_tag": true
+    }
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.requireConfig": true,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.profiles.windows": {
+    "C:\\Program Files\\PowerShell\\7\\pwsh.exe (migrated)": {
+      "path": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+      "args": []
+    }
+  }
+ 
+ 
+}
+
+```
