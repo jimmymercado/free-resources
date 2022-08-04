@@ -116,10 +116,8 @@ code --install-extension christian-kohler.npm-intellisense
 code --install-extension christian-kohler.path-intellisense
 code --install-extension chrmarti.regex
 code --install-extension CoenraadS.bracket-pair-colorizer-2
-code --install-extension Dart-Code.dart-code
 code --install-extension DavidAnson.vscode-markdownlint
 code --install-extension dbaeumer.vscode-eslint
-code --install-extension dracula-theme.theme-dracula
 code --install-extension dssiqueira.drupal-8-snippets
 code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension EQuimper.react-native-react-redux
@@ -160,7 +158,6 @@ code --install-extension TheNouillet.symfony-vscode
 code --install-extension Tyriar.shell-launcher
 code --install-extension vincaslt.highlight-matching-tag
 code --install-extension vscode-icons-team.vscode-icons
-code --install-extension wesbos.theme-cobalt2
 code --install-extension whatwedo.twig
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension zhuangtongfa.material-theme
