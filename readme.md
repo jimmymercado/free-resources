@@ -77,6 +77,8 @@ List of online resources to aid you in your learning journey! Many of the list w
 
 ## Miscellaneous:
 
+- <a href="https://hipsum.co/" target="_new">Hipster Ipsum</a> - Dummy text? More like dummy thicc text, amirite?
+
 - <a href="https://learnxinyminutes.com/" target="_new">Learn X in Y minutes</a> - Library of syntax for different languages
 
 - <a href="http://rosettacode.org/wiki/Rosetta_Code" target="_new">Rosetta Code</a> - Database of information and how each language handles them
